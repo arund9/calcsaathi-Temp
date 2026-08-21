@@ -1,0 +1,6 @@
+{
+  "name": "CalcSaathi",
+  "description": "India's most user-friendly financial calculator platform. 15+ calculators with Indian lakh/crore formatting, dark mode default, and educational context.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
